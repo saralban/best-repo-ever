@@ -1,4 +1,4 @@
 # best-repo-ever
 Testing through terminal app.
-Testing conflict resolution.
-branch new-branch-1.
+new-branch-2
+testing conflict resolution.
